@@ -13,9 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klayngo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayngo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+ 
+  ## Languages Programming
   
-
-<div style="width:40px;">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=klayngo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)"/>
-
-  </div>
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
