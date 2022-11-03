@@ -14,4 +14,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayngo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-![js](https://user-images.githubusercontent.com/91626236/199750790-6fbcbdd9-1c62-40a4-8dd4-51d366a9f6e6.svg)
+
+![js](https://user-images.githubusercontent.com/91626236/199750996-01c4b634-dc50-4c15-8d29-7004d857f9fe.png)
