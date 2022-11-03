@@ -16,9 +16,9 @@
   
   <div align="center">
     
-    
-    ![Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/91626236/199750425-b2e2f32c-3aef-4e87-b520-345772bf6df1.png)
+    ![Unofficial_JavaScript_logo_2 svg](https://user-images.githubusercontent.com/91626236/199750542-9b6e9437-5c6b-47fd-80d8-6873ea91db81.png)
 
+    
  
 </div>
 
