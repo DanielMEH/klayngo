@@ -15,4 +15,6 @@
 </div>
   
 
-![js](https://user-images.githubusercontent.com/91626236/199750996-01c4b634-dc50-4c15-8d29-7004d857f9fe.png)
+<div style="width:40px;">
+ ![js](https://user-images.githubusercontent.com/91626236/199750996-01c4b634-dc50-4c15-8d29-7004d857f9fe.png)
+  </div>
