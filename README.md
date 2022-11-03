@@ -16,5 +16,6 @@
   
 
 <div style="width:40px;">
- ![js](https://user-images.githubusercontent.com/91626236/199750996-01c4b634-dc50-4c15-8d29-7004d857f9fe.png)
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=klayngo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)"/>
+
   </div>
