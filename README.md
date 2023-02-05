@@ -8,10 +8,6 @@
 
 ## 
 ![carbon](https://user-images.githubusercontent.com/91626236/216829608-ef5908cc-e044-4872-a47c-44edf76be9ae.png)
- <h1 align="center">📊 GitHub Stats:</h1>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayngo&layout=compact&langs_count=7&theme=tokyonight"/>
-
- 
   ## Languages Programming And Technologies
    <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
