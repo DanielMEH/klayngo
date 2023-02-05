@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Daniel Ospina</h1>
+<h1 align="center"> Daniel Ospina</h1>
 
 
-- 🔭 I work as developer Backend
-- 🌱 Studyng Typescript, Java, React...
-- 📫 How to reach me Ospinaortizjuandaniel351@gmail.com
+- 🔭 Eficiencia y mejora continua
+- 🌱 Caliad de trabajo
+- 📫 Inovacion para crecer
 
 
 ## <h1 align="center">📊 GitHub Stats:</h1>
