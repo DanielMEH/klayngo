@@ -1,4 +1,4 @@
-<h1> Print("Hello!! 👋")</h1>
+<h1> print("Hello!! 👋")</h1>
 
 
 - 🔭 Eficiencia y mejora continua                                                                                             
