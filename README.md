@@ -2,7 +2,7 @@
 
 
 - 🔭 Eficiencia y mejora continua                                                                                             
-- 🌱 Caliad de trabajo
+- 🌱 Calidad de trabajo
 - 📫 Inovacion para crecer
 - 🌱 Integridad y compromiso
 
